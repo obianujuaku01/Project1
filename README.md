@@ -16,6 +16,7 @@ i.	Run unit tests.
 ii.	Build the Docker images. 
 iii. Push the Docker images to a registry. 
 iv.	Deploy to a Swarm.
+v.  functional database
 
 
 Documents attached includes:
