@@ -30,14 +30,15 @@ Documents attached includes:
 https://user-images.githubusercontent.com/112074140/200187931-625d6938-bedd-48e4-be46-fba1f512cb4c.mp4
 
 
-
 https://user-images.githubusercontent.com/112074140/200188017-3afaf5b6-8868-49db-a247-66fdb14351f4.mp4
-
-
 
 
 https://user-images.githubusercontent.com/112074140/200188856-dc42bc69-2c88-4d2f-b1d7-fca0c6c7323b.mp4
 
 ![Novel tracker webpage](https://user-images.githubusercontent.com/112074140/200188975-dbe6a649-d6a8-4cfe-85cf-78b6a731fe83.PNG)
+
 ![jenkins clone](https://user-images.githubusercontent.com/112074140/200188988-2dad3ad7-a008-40e8-a53b-914259de774a.PNG)
+
+[FULL CODES FOR THE NOVEL TRACKER APP.pdf](https://github.com/obianujuaku01/Project1/files/9953208/FULL.CODES.FOR.THE.NOVEL.TRACKER.APP.pdf)
+
 
